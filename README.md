@@ -76,7 +76,6 @@ I enjoy building AI projects that combine creativity, real-world problem solving
 
 ## 🌐 Let's Connect
 
-* LinkedIn: Add your LinkedIn profile link
-* GitHub: Add your GitHub profile link
-* Email: Add your professional email
-* Portfolio: Add later if you build one
+* LinkedIn: www.linkedin.com/in/nimisha-tiwari-403120281
+* Email: tiwarinimisha386@gmail.com
+
