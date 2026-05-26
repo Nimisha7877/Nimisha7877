@@ -1,6 +1,6 @@
 # Hi, I'm Nimisha Tiwari 👋
 
-## About Me
+## 🌸 About Me
 
 I'm a B.Tech CSE student specializing in Artificial Intelligence and Machine Learning, focused on building practical AI-powered applications using Python, Machine Learning, NLP, Generative AI, and backend development.
 
@@ -8,7 +8,7 @@ I enjoy working on projects that combine intelligent models with real-world use 
 
 ---
 
-## Interests
+## 🧠 Interests
 
 * Artificial Intelligence
 * Machine Learning
@@ -20,7 +20,7 @@ I enjoy working on projects that combine intelligent models with real-world use 
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
@@ -40,7 +40,7 @@ MySQL • Oracle DB basics
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 * Advanced Machine Learning
 * Deep Learning and CNN Architectures
@@ -52,21 +52,19 @@ MySQL • Oracle DB basics
 
 ---
 
-## Ask Me About
+## 💬 Ask Me About
 
 Python, Machine Learning, NLP, Generative AI, Flask, Streamlit, AI projects, and backend-integrated intelligent applications.
 
 ---
 
-## Fun Fact
+## ✨ Fun Fact
 
 I enjoy building AI projects that combine creativity, real-world problem solving, and intelligent automation.
 
 ---
- ## Let's Connect
- 
- LinkedIn: www.linkedin.com/in/nimisha-tiwari-403120281
- Email: tiwarinimisha386@gmail.com
 
+## 🌐 Let's Connect
 
-
+* LinkedIn: www.linkedin.com/in/nimisha-tiwari-403120281
+* Email: tiwarinimisha386@gmail.com
