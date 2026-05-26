@@ -8,6 +8,16 @@ I enjoy working on projects that combine intelligent models with real-world use 
 
 ---
 
+## 🚀 Currently Working On
+
+* Building AI-powered applications using NLP and Generative AI
+* Exploring intelligent backend-integrated systems using Flask and Streamlit
+* Strengthening concepts in Machine Learning, Deep Learning, and Computer Vision
+* Developing practical AI solutions focused on automation and real-world problem solving
+* Learning scalable AI workflows and model deployment concepts
+
+---
+
 ## 🧠 Interests
 
 * Artificial Intelligence
@@ -66,5 +76,7 @@ I enjoy building AI projects that combine creativity, real-world problem solving
 
 ## 🌐 Let's Connect
 
-* LinkedIn: www.linkedin.com/in/nimisha-tiwari-403120281
-* Email: tiwarinimisha386@gmail.com
+* LinkedIn: Add your LinkedIn profile link
+* GitHub: Add your GitHub profile link
+* Email: Add your professional email
+* Portfolio: Add later if you build one
